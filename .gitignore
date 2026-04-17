@@ -1,0 +1,6 @@
+target/
+uploads/
+public/
+.env
+test
+test_result
